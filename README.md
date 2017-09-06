@@ -10,7 +10,7 @@ List of links for the **ReStart**!
 
 ## Learning
 
-Learning new skills list.
+Learning new skills.
 
 ### Coding Practice
 
